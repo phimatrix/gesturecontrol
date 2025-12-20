@@ -1,2 +1,3 @@
 # gesturecontrol
-gesturecontrolled mouse from eyes and hand tracking
+gesture controlled based mouse from eyes and hand tracking.
+
