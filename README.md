@@ -10,7 +10,7 @@ A real-time hand gesture recognition system using computer vision techniques to 
 
 ## 🧠 How It Works
 - Captures video input
-- Detects hand region
+- Detects hand region FINGERS AND EYES TOO
 - Extracts gesture features
 - Maps gestures to predefined commands
 
